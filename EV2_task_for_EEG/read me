@@ -1,0 +1,9 @@
+This task is slightly different than EV1, but was also developed in Python and relies on the same filing system for data output.
+
+You will need the following folders in the directory folder for this task to run:
+- by_Trial_data
+- data
+- log_data
+- payout_data
+- prac_data
+- self_report_data
