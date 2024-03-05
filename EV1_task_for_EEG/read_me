@@ -1,1 +1,8 @@
-This task was written in Python using the PsychoPy library. It outputs several csv files to different folders, thus I kept the empty folders in the repository for reference.
+This task was written in Python using the PsychoPy library. It outputs several csv files to different folders.
+Before running the task you need to have empty folders in the directory folder with the following names:
+- allEvents_data
+- backup_data
+- byTrial_data
+- data
+- payout_data
+- selfreport_data
